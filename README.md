@@ -50,3 +50,8 @@
 ## 给 Codex 的一句话指令
 
 请读取 `docs/10_CODEX_NEXT_TASK.md` 并严格执行；不要创建 PR、不要 push、不要 merge；完成后报告修改文件和测试结果。
+
+## M1 启动包校验记录
+
+- 最近一次按 `docs/10_CODEX_NEXT_TASK.md` 完成校验日期：2026-05-18（UTC）。
+- 校验项：必备文档存在、fixture 路径与字段格式正确、时间戳范围与步进正确。

@@ -1,0 +1,6 @@
+#ifndef PPG_IBI_INTERNAL_H
+#define PPG_IBI_INTERNAL_H
+
+#define PPG_IBI_VERSION_STRING "0.2.0-m2"
+
+#endif /* PPG_IBI_INTERNAL_H */
